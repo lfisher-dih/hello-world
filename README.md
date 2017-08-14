@@ -1,2 +1,5 @@
 # hello-world
-This is a test repository.
+Hi Humans,
+
+My name is Latita Fisher and this is my first time using GitHub.  It seems to be really cool.  
+Thank You!
